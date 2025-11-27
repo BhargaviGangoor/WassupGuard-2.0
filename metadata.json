@@ -1,0 +1,5 @@
+{
+  "name": "Wassup Guard",
+  "description": "A mobile-first WhatsApp security scanner dashboard. Detects threats, manages quarantine, and provides safety scores.",
+  "requestFramePermissions": []
+}
